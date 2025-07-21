@@ -8,7 +8,7 @@
 body {
     text-align: center;
     padding: 2rem;
-    background-color: #8bb9ff;
+    background-color: #f0adbe;
 
 }
 
@@ -20,20 +20,21 @@ body {
 button {
     padding: 10px 20px;
     margin: 20px;
-    background-color: #4a90e2;
+    background-color: #d61757;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
+    transition: 0.3s ease-in-out;
 }
 
 button:hover {
-    background-color: #357ABD;
+    background-color: #ff1a6b;
 }
 
 button:active {
-    background-color: #215583;
+    background-color: #b3004d;
 }
 
 #imgGato {
